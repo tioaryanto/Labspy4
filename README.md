@@ -13,3 +13,7 @@ FORMULA PRAKTIKUM
 TUGAS PRAKTIKUM 4
 ##Hasil Input
 ![praktikum](https://user-images.githubusercontent.com/57034810/69478319-a9954e00-0e23-11ea-8a68-1822b58eb3d3.png)
+
+FLOWCHART
+
+![Screenshot (43)](https://user-images.githubusercontent.com/57034810/69482055-39012800-0e49-11ea-8d86-cf40fb4260e3.png)
